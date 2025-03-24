@@ -1,22 +1,3 @@
-<!--
-## Hi there 👋
-
-
-**UtkarshaBhosale/UtkarshaBhosale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 # 👋 Hi, I'm Utkarsha Bhosale  
 
 🚀 **Cloud & DevOps Engineer | AWS | Kubernetes | Automation**  
@@ -43,15 +24,37 @@ Welcome to my GitHub profile! I'm passionate about **cloud infrastructure, autom
 ---
 
 ## 🛠 Tech Stack  
-💻 **Programming**: Python, Java  
-☁️ **Cloud**: AWS (EKS, RDS, OpenSearch, EC2, Lambda, S3)  
-🔧 **DevOps Tools**: Docker, Kubernetes, Jenkins, Terraform  
-🔍 **Monitoring & Security**: Dynatrace, Twistlock, Checkmarx  
+
+### 💻 Programming  
+<p>
+  <img src="https://api.iconify.design/logos/python.svg" width="50">&nbsp;
+  <img src="https://api.iconify.design/logos/java.svg" width="50">
+</p>
+
+### ☁️ Cloud  
+<p>
+  <img src="https://api.iconify.design/logos/aws.svg" width="50">&nbsp;
+  <img src="https://api.iconify.design/logos/kubernetes.svg" width="50">&nbsp;
+  <img src="https://api.iconify.design/logos/aws-lambda.svg" width="50">&nbsp;
+  <img src="https://api.iconify.design/logos/aws-s3.svg" width="50">
+</p>
+
+### 🔧 DevOps Tools  
+<p>
+  <img src="https://api.iconify.design/logos/docker-icon.svg" width="50">&nbsp;
+  <img src="https://api.iconify.design/logos/kubernetes.svg" width="50">&nbsp;
+  <img src="https://api.iconify.design/logos/jenkins.svg" width="50">&nbsp;
+  <img src="https://api.iconify.design/logos/terraform-icon.svg" width="50">
+</p>
 
 ---
 
 ## 📫 Let's Connect  
-💼 **LinkedIn**: [Utkarsha Bhosale](https://www.linkedin.com/in/utkarshabhosale/)  
+<p>
+  <a href="https://www.linkedin.com/in/utkarshabhosale/">
+    <img src="https://api.iconify.design/logos/linkedin-icon.svg" width="30">
+  </a>
+</p>
 
 ---
 
@@ -60,4 +63,10 @@ I love **solving complex cloud challenges**, automating workflows, and making in
 
 ---
 
+### 🚀 Profile Stats  
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=UtkarshaBhosale&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshaBhosale&layout=compact&theme=radical" width="48%">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?UtkarshaBhosal=your-username&layout=compact&theme=radical" width="48%"> -->
+</p>
